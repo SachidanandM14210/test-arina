@@ -1,0 +1,18 @@
+# TEST ARENA - Quiz Application Requirements
+
+# Note: tkinter comes pre-installed with most Python distributions
+# If tkinter is missing, install it using your system's package manager:
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - macOS: brew install python-tk
+# - Windows: Usually included with Python installation
+
+# No additional Python packages required beyond standard library
+# The application uses:
+# - sqlite3 (built-in)
+# - tkinter (built-in on most systems)
+# - hashlib (built-in)
+# - datetime (built-in)
+# - time (built-in)
+
+# Python version requirement
+# Python >= 3.7
